@@ -1,6 +1,6 @@
-## 프로그라피 딥러닝 과제 
+# VGG 16 Skip connection으로 구현하기 with *Keras*
 
-#### prography-6th-deep-박범진
+### prography-6th-deep-박범진
 
 
 * Python == 3.6
@@ -14,7 +14,9 @@
 
 > Data 
 
-MNIST 데이터를 다운 받아서 data 폴더에 저장해뒀습니다. 
+MNIST 데이터를 **data zip**으로 저장해뒀습니다. 
+
+현재 디렉토리에 풀어주면 됩니다.
 
 |Split|size|
 |---|---|
@@ -30,8 +32,8 @@ Test  |10000
 |Env|Time|eopchs |Accuracy| loss|
 |---|---|---|---| ---|
 |Lenova (NVIDIA GeForce 1050 4GB)| as|sa |as| as|
-|Google Colab GPU|4min| 5  | 0.987| 0.038|
-|Google Colab GPU|8min| 10  | 0.997|0.007|
+|Google Colab GPU|4min| 5  | **0.987**| 0.038|
+|Google Colab GPU|8min| 10  | **0.997**|0.007|
 
 <br>
 
