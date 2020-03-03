@@ -14,7 +14,8 @@
 
 > Data 
 
-MNIST 데이터를 다운 받아서 data 폴더에 저장해뒀습니다. 
+MNIST 데이터를 다운 받아서 data zip으로 저장해뒀습니다. 
+
 
 |Split|size|
 |---|---|
