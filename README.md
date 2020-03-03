@@ -14,7 +14,7 @@
 
 > Data 
 
-MNIST 데이터를 **data 폴더 안에 data zip**으로 저장해뒀습니다. 
+📢 MNIST 데이터를 **data 폴더 안에 data zip**으로 저장해뒀습니다. 
 
 data 폴더에 풀어주면 됩니다.
 
@@ -27,7 +27,7 @@ Test  |10000
 <br>
 
 
-> Training
+> Training 🕓
 
 |Env|Time|eopchs |Accuracy| loss|
 |---|---|---|---| ---|
@@ -49,12 +49,12 @@ ADD에서 두 텐서를 더해주는 형태로 구성하였습니다.
 
 
 ---
-> Structure
+> Structure 🔧
 
 ![image](images/vgg16.png)
 
 
 ---
-> Accuracy and loss
+> Accuracy and loss 👀
 
 ![image](images/acc_and_loss.png)
