@@ -1,7 +1,5 @@
 # VGG 16 Skip connection으로 구현하기 with *Keras*
 
-### prography-6th-deep-박범진
-
 
 * Python == 3.6
 * matplotlib == 3.1.3
