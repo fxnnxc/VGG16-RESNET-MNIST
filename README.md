@@ -14,9 +14,9 @@
 
 > Data 
 
-MNIST 데이터를 **data zip**으로 저장해뒀습니다. 
+MNIST 데이터를 **data 폴더 안에 data zip**으로 저장해뒀습니다. 
 
-현재 디렉토리에 풀어주면 됩니다.
+data 폴더에 풀어주면 됩니다.
 
 |Split|size|
 |---|---|
