@@ -1,6 +1,6 @@
-## 프로그라피 딥러닝 과제 
+# VGG 16 Skip connection으로 구현하기 with *Keras*
 
-#### prography-6th-deep-박범진
+### prography-6th-deep-박범진
 
 
 * Python == 3.6
