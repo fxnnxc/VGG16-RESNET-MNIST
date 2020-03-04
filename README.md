@@ -29,9 +29,11 @@ Test  |10000
 
 |Env|Time|eopchs |Accuracy| loss|
 |---|---|---|---| ---|
-|Lenova (NVIDIA GeForce 1050 4GB)| as|sa |as| as|
-|Google Colab GPU|4min| 5  | **0.987**| 0.038|
-|Google Colab GPU|8min| 10  | **0.997**|0.007|
+|Lenova (NVIDIA GeForce 1050 4GB)| 16min|5 |0.950| 0.156|
+|Google Colab Tesla K80|4min| 5  | **0.987**| 0.038|
+|Google Colab Tesla K80|8min| 10  | **0.997**|0.007|
+|Kaggle TESLA P100|7min|10|0.989|0.028|
+
 
 <br>
 
